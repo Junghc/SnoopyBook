@@ -8,4 +8,4 @@
 
 簡易操作Gif檔:
 
-https://cdn-images-1.medium.com/max/1200/1*OylRLD0fyoSJzKlFuUTtew.gif
+https://github.com/Junghc/SnoopyBook/blob/master/%E6%93%8D%E4%BD%9C.gif
