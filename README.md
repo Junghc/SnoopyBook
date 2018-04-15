@@ -8,4 +8,4 @@
 
 簡易操作Gif檔:
 
-https://github.com/Junghc/SnoopyBook/blob/master/%E6%93%8D%E4%BD%9C.gif
+![image](https://github.com/Junghc/SnoopyBook/blob/master/%E6%93%8D%E4%BD%9C.gif)
